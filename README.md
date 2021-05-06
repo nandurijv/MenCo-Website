@@ -1,4 +1,4 @@
-# Pet Pals
+# MenCo
 ### Team Members👨🏻‍💻:
 1. Alok Mathur
 2. Jayant Vishnu Nanduri
